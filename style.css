@@ -1,12 +1,12 @@
 :root{
-    --cor-de-fundo: #EBECEE;
+    --cor-de-fundo: #f31f10;
 }
     body {
         background-color: var(--cor-de-fundo);
     }
      
     h1 {
-        background-color: rgb(27, 148, 92);
+        background-color: rgb(255, 255, 255);
     }
 
     img{
