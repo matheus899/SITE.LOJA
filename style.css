@@ -13,10 +13,10 @@
 }
 .cabecalho-item1{
     display: inline-block;
-    margin: 0 50px;
+    margin: 0 -50px;
 }
 
 .cabecalho-item2{
     display: inline-block;
-    margin: 0 50px;
+    margin: 0 -50px;
 }
