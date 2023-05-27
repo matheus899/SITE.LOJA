@@ -11,12 +11,7 @@
     margin: 0 -300px;
 
 }
-.cabecalho-item1{
+.cabecalho-item{
     display: inline-block;
-    margin: 0 -50px;
-}
-
-.cabecalho-item2{
-    display: inline-block;
-    margin: 0 -50px;
+    margin: 0 20px;
 }
