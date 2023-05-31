@@ -84,5 +84,24 @@
 
 .nome-roger{
        display: inline-block;
-    margin: 0 12px;
+    margin: 0 10px;
+}
+
+.nome-yuri{
+
+display: inline-block;
+margin: 10px;
+}
+
+.nome-renato{
+
+    display: inline-block;
+    margin: 10px;
+
+}
+
+.nome-casio{
+
+    display: inline-block;
+    margin: 10px;
 }
