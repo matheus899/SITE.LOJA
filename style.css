@@ -1,11 +1,13 @@
-header{
+.cabecalho{
 
     background-color: black;
     color: white;
+    display: flex;
+    justify-content: space-around;
 }
 
-.imagem-logo{
+.cabecalho-imagem1{
 
-width: 30%;
+width: 20%;
 
 }
