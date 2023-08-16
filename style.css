@@ -46,5 +46,8 @@ width: 20%;
     .roupa2{
 
         width: 20%;
-        background-position: center center;
+        display: flex;
+    justify-content: space-around;
+    align-items: center;
+        
     }
