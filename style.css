@@ -23,3 +23,8 @@ padding: 24px 0;
     display: inline-block;
     margin: 0 16px;
 }
+
+.imagem-grande{
+
+    width: 100%;
+}
